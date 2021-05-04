@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I am Paul Babu Kadali     
+  Hi there 👋 I am Paul Babu Kadali :man_technologist: 
 </h1>
 <p align='center'>
 I use Kaiser784 as an alter ego, so if you find someone with that as username there's a pretty good chance it's me.
@@ -24,5 +24,6 @@ I use Kaiser784 as an alter ego, so if you find someone with that as username th
 </p>
 
 <p align='right'>
+  <a href="#"><img src="https://badges.pufler.dev/repos/kaiser784"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/kaiser784/kaiser784"></a>
 </p>
-[![Repos Badge](https://badges.pufler.dev/repos/kaiser784)](https://badges.pufler.dev)
