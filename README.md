@@ -16,7 +16,7 @@ I use Kaiser784 as an alter ego, so if you find someone with that as username th
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kaiser784&show_icons=true&count_private=true&theme=dark" width="400"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser784&layout=compact&theme=onedark" width="335"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser784&count_private=true&layout=compact&theme=dark" width="335"></a>
 </p>
 
 <p align='center'>
