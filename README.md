@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I am Paul Babu Kadali     
+</h1>
+<p align='center'>
+I use Kaiser784 as an alter ego, so if you find someone with that as username there's a pretty good chance it's me.
+ </p>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/paul-kadali/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/chewnot2chew/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 
-<!--
-**Kaiser784/Kaiser784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kaiser784&show_icons=true&count_private=true&theme=dark" width="400"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser784&layout=compact&theme=onedark" width="335"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  📫 How to reach me: <a href='mailto:paulkadali@gmail.com'>paulkadali@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='right'>
+</p>
+[![Repos Badge](https://badges.pufler.dev/repos/kaiser784)](https://badges.pufler.dev)
