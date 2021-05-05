@@ -25,5 +25,5 @@ I use Kaiser784 as an alter ego, so if you find someone with that as username th
 
 <p align='right'>
   <a href="#"><img src="https://badges.pufler.dev/repos/kaiser784"></a>
-  <a href="#"><img src="https://badges.pufler.dev/visits/kaiser784/kaiser784"></a>
+  <a href="#"><img src="https://badges.pufler.dev/years/kaiser784"></a>
 </p>
