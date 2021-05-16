@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I am Paul Babu Kadali :man_technologist: 
+  :vulcan_salute: I am Paul Babu Kadali :man_technologist: 
 </h1>
 <p align='center'>
 I use Kaiser784 as an alter ego, so if you find someone with that as username there's a pretty good chance it's me.
