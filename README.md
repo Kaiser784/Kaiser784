@@ -2,8 +2,11 @@
   :vulcan_salute: I am Paul Babu Kadali :man_technologist: 
 </h1>
 <p align='center'>
-I use Kaiser784 as an alter ego, so if you find someone with that as username there's a pretty good chance it's me.
- </p>
+    <img src="https://media1.tenor.com/images/07988c63e7f4730bd4f5ac57d42440c5/tenor.gif?itemid=11287448" />
+  
+    I use Kaiser784 as an alter ego, so if you find someone with that as username there's a pretty good chance it's me.
+</p>
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/paul-kadali/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
