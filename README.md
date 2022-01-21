@@ -14,14 +14,15 @@
   <a href="https://www.instagram.com/chewnot2chew/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/chewnot2chew?style=social">
 </p>
+
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kaiser784&count_private=true&show_icons=true&theme=chartreuse-dark" width="400"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser784&count_private=true&layout=compact&theme=highcontrast" width="335"></a>
 </p>
-
 <p align='center'>
   📫 How to reach me: <a href='mailto:paulkadali@gmail.com'>paulkadali@gmail.com</a>
 </p>
