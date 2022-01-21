@@ -14,7 +14,9 @@
   <a href="https://www.instagram.com/chewnot2chew/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/chewnot2chew?style=social">
+  <a href="https://twitter.com/intent/follow?screen_name=chewnot2chew">
+    <img src="https://img.shields.io/twitter/follow/chewnot2chew?style=social" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 
