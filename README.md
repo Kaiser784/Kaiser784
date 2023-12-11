@@ -1,8 +1,7 @@
 <h1 align='center'>
   :vulcan_salute: I am Paul Babu Kadali :man_technologist: 
 </h1>
-<p align='center'>
-    <img src="https://media1.tenor.com/images/07988c63e7f4730bd4f5ac57d42440c5/tenor.gif?itemid=11287448" />
+<p>
   
     I use Kaiser784 and Chewnot2Chew as an alter ego, so if you find someone with that as username there's a pretty good chance it's me.
 </p>
