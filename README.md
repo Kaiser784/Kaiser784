@@ -19,7 +19,7 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaiser784)](https://github.com/kaiser784)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaiser784&theme=oldie&margin-w=10)](https://github.com/kaiser784)
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kaiser784&count_private=true&show_icons=true&theme=chartreuse-dark" width="400"></a>
