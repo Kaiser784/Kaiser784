@@ -1,11 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=paul_babu_kadali@root;alias:+kaiser784;alias:+chewnot2chew;security_research_mode=active;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=6495ed&center=true&vCenter=true&width=700&lines=paul_babu_kadali@root;alias:+kaiser784;alias:+chewnot2chew;security_research_mode=active;" />
+    <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=kaiser784&accent=6495ed&cell=square&hide_border=true"/>
+
 </h1>
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/status-operational-00ff41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-operational-6495ed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/primary-security_research-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/secondary-systems_%26_agents-00ff41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/secondary-systems_%26_agents-6495ed?style=for-the-badge" />
 </p>
 
 ---
@@ -55,23 +58,12 @@ systems over surface fixes
 
 ---
 
-## 📊 runtime_metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaiser784&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaiser784&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaiser784&theme=github_dark" />
-</p>
-
----
-
 ## 📈 contribution_matrix
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiser784&theme=react-dark" />
+    <img height="260" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=kaiser784&accent=6495ed&cell=square&hide_border=true"/>
+
+  <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=kaiser784&accent=6495ed&cell=square&hide_border=true"/>
 </p>
 
 ---
